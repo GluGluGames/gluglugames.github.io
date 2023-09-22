@@ -4,19 +4,18 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "gluglugames.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author
-author-name:    Clayton Hanson
+author-name:    GluGluGames
 author-image:   1.jpg
-author-job:     Web Developer
-author-email:   your-email@domain.com # Add your email for contant form.
+author-job:     Videogames Developer
+author-email:   glugluvideogames@gmail.com # Add your email for contant form.
 author-twitter: artemsheludko_ # Add your twitter account
-about-author:   I am a web developer focusing on front-end development. Always hungry to keep learning.
-
+about-author:   We are a new game development studio that is focusing on making a place on the industry
 # Social settings
-social-twitter:   artemsheludko_
+social-twitter:   GluGluGames
 social-facebook:
 social-github:    artemsheludko
-social-pinterest: artemsheludko
-social-instagram: artemsheludko_
+social-pinterest: 
+social-instagram: glugluvideogames
 social-youtube:
 social-vk:   
 social-linkedin:
