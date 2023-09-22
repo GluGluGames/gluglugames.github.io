@@ -1,15 +1,15 @@
-title: Welcome to Flexton
+title: Welcome to GluGluGames
 description: Flexton is a responsive and ultra-minimal theme for Jekyll.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "gluglugames.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author
 author-name:    GluGluGames
-author-image:   1.jpg
-author-job:     Videogames Developer
+author-image:  logoGluGluGames.png
+author-job:     Videogames Developers
 author-email:   glugluvideogames@gmail.com # Add your email for contant form.
-author-twitter: artemsheludko_ # Add your twitter account
-about-author:   We are a new game development studio that is focusing on making a place on the industry
+author-twitter: GluGluGames # Add your twitter account
+about-author:   We are a new game development studio focused on making a place on the industry
 # Social settings
 social-twitter:   GluGluGames
 social-facebook:
