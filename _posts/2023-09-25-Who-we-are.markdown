@@ -6,7 +6,7 @@ date: 2023-09-25 09:00:20 +0100
 tags: 
 categories: guide
 ---
-Greetings! We are a team made by studentso of Videogames Design & Development of Videogames on the spanish university [Universidad Rey Juan Calors](www.urjc.es).This is currently our fourth year.
+Greetings! We are a team made by studentso of Videogames Design & Development of Videogames on the spanish university [Universidad Rey Juan Calors](https://www.urjc.es).This is currently our fourth year.
 
 In this post you will be introducted to the team and his most disposable work.
 
