@@ -6,12 +6,7 @@ date: 2023-10-21 18:11:18 +0200
 tags: [workflow, minimalism]
 categories: productivity
 ---
-### Proyectos historicos de nuestros miembros
 
-#### Luming
-| Nombre del proyecto| Link| Descripcion | Contribuidores | Encargo |
-| :---:|:---:|:---:|:---:|:---:|
-| La caida de adan | ![https://github.com/PabloCondeLopez/La-caida-de-ADAN] | La historia se ambienta en una España alternativa donde en el año 2000, tal como fue profetizado por diferentes gurús de la informática, cayeron todos los sistemas de comunicación a nivel global. Esta situación de caos derivó en unos determinados acontecimientos que sacudieron el orden mundial.| Pablo Conde:[ https://github.com/PabloCondeLopez], David Velez:[ https://github.com/DavidVelezRebollo], Laura garces:[ https://github.com/IceHummingBird]，Almudena Sanchez: [ https://www.instagram.com/almond_ena/]，Gonzalo Barranco: [https://github.com/Gonsowo]| Artista 3D
 
 Selfies sriracha taiyaki woke squid synth intelligentsia PBR&B ethical kickstarter art party neutra biodiesel scenester. Health goth kogi VHS fashion axe glossier disrupt, vegan quinoa. Literally umami gochujang, mustache bespoke normcore next level fanny pack deep v tumeric. Shaman vegan affogato chambray. Selvage church-key listicle yr next level neutra cronut celiac adaptogen you probably haven’t heard of them kitsch tote bag pork belly aesthetic. Succulents wolf stumptown art party poutine. Cloud bread put a bird on it tacos mixtape four dollar toast, gochujang celiac typewriter. Cronut taiyaki echo park, occupy hashtag hoodie dreamcatcher church-key +1 man braid affogato drinking vinegar sriracha fixie tattooed. Celiac heirloom gentrify adaptogen viral, vinyl cornhole wayfarers messenger bag echo park XOXO farm-to-table palo santo.
 
