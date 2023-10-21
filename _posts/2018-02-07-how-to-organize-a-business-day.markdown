@@ -22,7 +22,7 @@ categories: productivity
   - Almudena Sánchez: [Perfil de Instagram](https://www.instagram.com/almond_ena/) 
   - Gonzalo Barranco: [Perfil de GitHub](https://github.com/Gonsowo)
 - Departamento: 
-  - Artista 3D
+  - Artista 3D  
 ##### *Proyecto 2*: 
 - Nombre:
   - Optophobia
@@ -36,7 +36,7 @@ categories: productivity
   - Almudena Sánchez: [Perfil de Instagram](https://www.instagram.com/almond_ena/) 
   - Gonzalo Barranco: [Perfil de GitHub](https://github.com/Gonsowo)
 - Departamento: 
-  - Artista 3D
+  - Artista 3D    
 ##### *Proyecto 3*: 
 - Nombre:
   - El Misterio del Ronquillo
@@ -65,7 +65,7 @@ categories: productivity
   - Almudena Sánchez: [Perfil de Instagram](https://www.instagram.com/almond_ena/) 
   - Gonzalo Barranco: [Perfil de GitHub](https://github.com/Gonsowo)
 - Departamento: 
-  - Programador principal
+  - Programador principal  
 ##### *Proyecto 2*: 
 - Nombre:
   - Optophobia
@@ -96,7 +96,7 @@ categories: productivity
   - Gonzalo Barranco: [Perfil de GitHub](https://github.com/Gonsowo)
 - Departamento: 
   - Programador
-  - Artista 2D
+  - Artista 2D  
 ##### *Proyecto 2*: 
 - Nombre:
   - Optophobia
