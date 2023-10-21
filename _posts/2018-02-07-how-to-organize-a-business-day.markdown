@@ -8,10 +8,111 @@ categories: productivity
 ---
 ### Proyectos historicos de nuestros miembros
 
-#### Luming
-| Nombre del proyecto | Link | Descripción | Contribuidores | Encargo |
-| :-------------------: | :---: | :---: | :--- | :---: |
-| La caída de Adán | [Link al repositorio](https://github.com/PabloCondeLopez/La-caida-de-ADAN) | La historia se ambienta en una España alternativa donde en el año 2000, tal como fue profetizado por diferentes gurús de la informática, cayeron todos los sistemas de comunicación a nivel global. Esta situación de caos derivó en unos determinados acontecimientos que sacudieron el orden mundial. | <li>Pablo Conde: [Perfil de GitHub](https://github.com/PabloCondeLopez)</li> <li>David Vélez: [Perfil de GitHub](https://github.com/DavidVelezRebollo)</li> <li>  Laura Garcés: [Perfil de GitHub](https://github.com/IceHummingBird)</li> <li> Almudena Sánchez: [Perfil de Instagram](https://www.instagram.com/almond_ena/) </li><li> Gonzalo Barranco: [Perfil de GitHub](https://github.com/Gonsowo) </li>| Artista 3D |
+### Luming Fan : [Perfil de Github](https://github.com/daniever6)
+##### *Proyecto 1*: 
+- Nombre:
+  - La caída de Adán
+- [Link al repositorio](https://github.com/PabloCondeLopez/La-caida-de-ADAN)
+- Descripcion: 
+  - La historia se ambienta en una España alternativa donde en el año 2000, tal como fue profetizado por diferentes gurús de la informática, cayeron todos los sistemas de comunicación a nivel global.Esta situación de caos derivó en unos determinados acontecimientos que sacudieron el orden mundial.
+- Contribuidores 
+  - Pablo Conde: [Perfil de GitHub](https://github.com/PabloCondeLopez)
+  - David Vélez: [Perfil de GitHub](https://github.com/DavidVelezRebollo) 
+  - Laura Garcés: [Perfil de GitHub](https://github.com/IceHummingBird)
+  - Almudena Sánchez: [Perfil de Instagram](https://www.instagram.com/almond_ena/) 
+  - Gonzalo Barranco: [Perfil de GitHub](https://github.com/Gonsowo)
+- Departamento: 
+  - Artista 3D
+##### *Proyecto 2*: 
+- Nombre:
+  - Optophobia
+- [Link al repositorio](https://github.com/PabloCondeLopez/Optophobia)
+- Descripcion: 
+  - Un chico esta viendo una peli en el cine y sale al banio porque tenia que problemas, cuando sale de ello, de repente desaparece todo el mundo, solo queda el cine, lleno de silencio. El chico tiene que averiguar las formas de salir del cine superando diferentes retos y escapar del elemento que le persigue.
+- Contribuidores 
+  - Pablo Conde: [Perfil de GitHub](https://github.com/PabloCondeLopez)
+  - David Vélez: [Perfil de GitHub](https://github.com/DavidVelezRebollo) 
+  - Laura Garcés: [Perfil de GitHub](https://github.com/IceHummingBird)
+  - Almudena Sánchez: [Perfil de Instagram](https://www.instagram.com/almond_ena/) 
+  - Gonzalo Barranco: [Perfil de GitHub](https://github.com/Gonsowo)
+- Departamento: 
+  - Artista 3D
+##### *Proyecto 3*: 
+- Nombre:
+  - El Misterio del Ronquillo
+- [Link al repositorio](https://github.com/Moromon/Gamegen-Game-Jam)
+- Descripcion: 
+  - En El Misterio del Ronquillo deberás visitar la venta del Ronquillo, donde se han cometido una serie de asesinatos. Junto con tu compañero el  forense Martínez deberéis desentrañar el misterio de los asesinatos. Encuentra las partes que faltan de la historia y resuelve el misterio.
+- Contribuidores 
+  - Pablo Conde: [Perfil de GitHub](https://github.com/PabloCondeLopez)
+  - Luis Moron: [Perfil de GitHub](https://github.com/Moromon)
+  - Daniel Salguero : [Perfil de Github](https://github.com/DaniSF1) 
+  - Javier DE LAS PEÑAS: [Perfil de GitHub](https://github.com/Gonsowo)
+- Departamento: 
+  - Artista 3D
+ 
+### David Velez: [Perfil de Github](https://github.com/DavidVelezRebollo)
+##### *Proyecto 1*: 
+- Nombre:
+  - La caída de Adán
+- [Link al repositorio](https://github.com/PabloCondeLopez/La-caida-de-ADAN)
+- Descripcion: 
+  - La historia se ambienta en una España alternativa donde en el año 2000, tal como fue profetizado por diferentes gurús de la informática, cayeron todos los sistemas de comunicación a nivel global.Esta situación de caos derivó en unos determinados acontecimientos que sacudieron el orden mundial.
+- Contribuidores 
+  - Pablo Conde: [Perfil de GitHub](https://github.com/PabloCondeLopez)
+  - Luming Fan : [Perfil de Github](https://github.com/daniever6) 
+  - Laura Garcés: [Perfil de GitHub](https://github.com/IceHummingBird)
+  - Almudena Sánchez: [Perfil de Instagram](https://www.instagram.com/almond_ena/) 
+  - Gonzalo Barranco: [Perfil de GitHub](https://github.com/Gonsowo)
+- Departamento: 
+  - Programador principal
+##### *Proyecto 2*: 
+- Nombre:
+  - Optophobia
+- [Link al repositorio](https://github.com/PabloCondeLopez/Optophobia)
+- Descripcion: 
+  - Un chico esta viendo una peli en el cine y sale al banio porque tenia que problemas, cuando sale de ello, de repente desaparece todo el mundo, solo queda el cine, lleno de silencio. El chico tiene que averiguar las formas de salir del cine superando diferentes retos y escapar del elemento que le persigue.
+- Contribuidores 
+  - Pablo Conde: [Perfil de GitHub](https://github.com/PabloCondeLopez)
+  - Luming Fan : [Perfil de Github](https://github.com/daniever6)
+  - Laura Garcés: [Perfil de GitHub](https://github.com/IceHummingBird)
+  - Almudena Sánchez: [Perfil de Instagram](https://www.instagram.com/almond_ena/) 
+  - Gonzalo Barranco: [Perfil de GitHub](https://github.com/Gonsowo)
+- Departamento: 
+  - Programador principal
+ 
+### Laura Garces: 
+##### *Proyecto 1*: 
+- Nombre:
+  - La caída de Adán
+- [Link al repositorio](https://github.com/PabloCondeLopez/La-caida-de-ADAN)
+- Descripcion: 
+  - La historia se ambienta en una España alternativa donde en el año 2000, tal como fue profetizado por diferentes gurús de la informática, cayeron todos los sistemas de comunicación a nivel global.Esta situación de caos derivó en unos determinados acontecimientos que sacudieron el orden mundial.
+- Contribuidores 
+  - Pablo Conde: [Perfil de GitHub](https://github.com/PabloCondeLopez)
+  - Luming Fan : [Perfil de Github](https://github.com/daniever6) 
+  - David Velez: [Perfil de Github](https://github.com/DavidVelezRebollo)
+  - Almudena Sánchez: [Perfil de Instagram](https://www.instagram.com/almond_ena/) 
+  - Gonzalo Barranco: [Perfil de GitHub](https://github.com/Gonsowo)
+- Departamento: 
+  - Programador
+  - Artista 2D
+##### *Proyecto 2*: 
+- Nombre:
+  - Optophobia
+- [Link al repositorio](https://github.com/PabloCondeLopez/Optophobia)
+- Descripcion: 
+  - Un chico esta viendo una peli en el cine y sale al banio porque tenia que problemas, cuando sale de ello, de repente desaparece todo el mundo, solo queda el cine, lleno de silencio. El chico tiene que averiguar las formas de salir del cine superando diferentes retos y escapar del elemento que le persigue.
+- Contribuidores 
+  - Pablo Conde: [Perfil de GitHub](https://github.com/PabloCondeLopez)
+  - Luming Fan : [Perfil de Github](https://github.com/daniever6)
+  - David Velez: [Perfil de Github](https://github.com/DavidVelezRebollo)
+  - Almudena Sánchez: [Perfil de Instagram](https://www.instagram.com/almond_ena/) 
+  - Gonzalo Barranco: [Perfil de GitHub](https://github.com/Gonsowo)
+- Departamento: 
+  - Programador
+  - Artista 2D
+
 
 
 Fam locavore snackwave bushwick +1 sartorial. Selfies portland knausgaard synth. Pop-up art party marfa deep v pitchfork subway tile 3 wolf moon. Ennui pinterest tumblr yr, adaptogen succulents copper mug twee. Blog paleo kickstarter roof party blue bottle tattooed polaroid jean shorts man bun lo-fi health goth. Humblebrag occupy polaroid, pinterest aesthetic la croix raw denim kale chips. 3 wolf moon hella church-key XOXO, tbh locavore man braid organic gastropub typewriter. Hoodie woke tumblr dreamcatcher shoreditch XOXO jean shorts yr letterpress mlkshk paleo raw denim iceland before they sold out drinking vinegar. Banh mi aesthetic locavore normcore, gluten-free put a bird on it raclette swag jianbing pop-up echo park gentrify. Stumptown brooklyn godard tumeric ethical. Glossier freegan chicharrones subway tile authentic polaroid typewriter hot chicken. Thundercats small batch heirloom meggings.
