@@ -4,7 +4,7 @@ title: Proyectos participados
 image: 5.jpg
 date: 2023-10-21 18:11:18 +0200
 tags: [workflow, minimalism]
-categories: Proyectos
+categories: productivity
 ---
 
 
