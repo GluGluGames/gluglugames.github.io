@@ -11,12 +11,9 @@ categories: productivity
 #### Luming
 | Nombre del proyecto | Link | Descripción | Contribuidores | Encargo |
 | :-------------------: | :---: | :--- | :--- | :--- |
-| La caída de Adán | [Link al repositorio](https://github.com/PabloCondeLopez/La-caida-de-ADAN) | La historia se ambienta en una España alternativa donde en el año 2000, tal como fue profetizado por diferentes gurús de la informática, cayeron todos los sistemas de comunicación a nivel global. Esta situación de caos derivó en unos determinados acontecimientos que sacudieron el orden mundial. | 
-- Pablo Conde: [Perfil de GitHub](https://github.com/PabloCondeLopez)
-- David Vélez: [Perfil de GitHub](https://github.com/DavidVelezRebollo)
-- Laura Garcés: [Perfil de GitHub](https://github.com/IceHummingBird)
-- Almudena Sánchez: [Perfil de Instagram](https://www.instagram.com/almond_ena/)
-- Gonzalo Barranco: [Perfil de GitHub](https://github.com/Gonsowo) | Artista 3D |
+| La caída de Adán | [Link al repositorio](https://github.com/PabloCondeLopez/La-caida-de-ADAN) | La historia se ambienta en una España alternativa donde en el año 2000, tal como fue profetizado por diferentes gurús de la informática, cayeron todos los sistemas de comunicación a nivel global. Esta situación de caos derivó en unos determinados acontecimientos que sacudieron el orden mundial. |  - Pablo Conde: [Perfil de GitHub](https://github.com/PabloCondeLopez) - David Vélez: [Perfil de GitHub](https://github.com/DavidVelezRebollo) - Laura Garcés: [Perfil de GitHub](https://github.com/IceHummingBird) - Almudena Sánchez: [Perfil de Instagram](https://www.instagram.com/almond_ena/) - Gonzalo Barranco: [Perfil de GitHub](https://github.com/Gonsowo) | Artista 3D |
+
+
 Fam locavore snackwave bushwick +1 sartorial. Selfies portland knausgaard synth. Pop-up art party marfa deep v pitchfork subway tile 3 wolf moon. Ennui pinterest tumblr yr, adaptogen succulents copper mug twee. Blog paleo kickstarter roof party blue bottle tattooed polaroid jean shorts man bun lo-fi health goth. Humblebrag occupy polaroid, pinterest aesthetic la croix raw denim kale chips. 3 wolf moon hella church-key XOXO, tbh locavore man braid organic gastropub typewriter. Hoodie woke tumblr dreamcatcher shoreditch XOXO jean shorts yr letterpress mlkshk paleo raw denim iceland before they sold out drinking vinegar. Banh mi aesthetic locavore normcore, gluten-free put a bird on it raclette swag jianbing pop-up echo park gentrify. Stumptown brooklyn godard tumeric ethical. Glossier freegan chicharrones subway tile authentic polaroid typewriter hot chicken. Thundercats small batch heirloom meggings.
 
 ### Plaid ramps kitsch woke pork belly
