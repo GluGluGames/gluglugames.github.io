@@ -2,7 +2,7 @@
 layout: post
 title: Who we are
 image: 188d4b4027fb62b6677719f776b07072.jpg
-date: 2023-09-25 09:00:20 +0100
+date: 2023-10-22 19:23:20 +0200
 tags: 
 categories: guide
 ---
