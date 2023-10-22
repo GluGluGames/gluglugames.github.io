@@ -10,6 +10,8 @@ categories: productivity
 
 
 ### *PROYECTO 1*: La caída de Adán
+![]({{https://gluglugames.github.io}}/images/ADAN.png)
+
 - [Repositorio](https://github.com/PabloCondeLopez/La-caida-de-ADAN)
 - Contribuidores 
   - [David Vélez](https://github.com/DavidVelezRebollo) 			      - Programacion
@@ -33,7 +35,9 @@ Un chico esta viendo una peli en el cine y sale al banio porque tenia que proble
 
   
 ### *PROYECTO 3*: El Misterio del Ronquillo
-- [Repositorio](https://github.com/Moromon/Gamegen-Game-Jam)
+![]({{https://gluglugames.github.io}}/images/Misterio.png)
+
+- [Itch.io](https://redpablo.itch.io/el-misterio-del-ronquillo)
 - Contribuyentes:
   - [Luming Fan](https://github.com/daniever6) 					               - Artista 3D
    
@@ -43,7 +47,9 @@ En El Misterio del Ronquillo deberás visitar la venta del Ronquillo, donde se h
 
 
 ### *PROYECTO 4*: Leave Something Behind
-- [Repositorio](https://github.com/DavidVelezRebollo/Leave-Something-Behind-v2)
+![]({{https://gluglugames.github.io}}/images/LSB.png)
+
+- [Itch.io]([https://github.com/DavidVelezRebollo/Leave-Something-Behind-v2](https://lsbehindoficial.itch.io/leave-something-behind))
 - Contribuyentes:
   - [Laura Garcés Martí](https://github.com/IceHummingBird) 			- Programación, Game Design, Interfaces y Artista
   - [David Vélez Rebollo](https://github.com/DavidVelezRebollo) 		- Programación
@@ -54,7 +60,9 @@ Un juego estilo Vampire Survivors 2D en el que en vez de conseguir objetos, los 
 
 
 ### *PROYECTO 5*: Busy Bee
-- [Repositorio](https://github.com/DavidVelezRebollo/Busy-Bee)
+![]({{https://gluglugames.github.io}}/images/Bee.png)
+
+- [Itch.io]([https://github.com/DavidVelezRebollo/Busy-Bee](https://gonsowo.itch.io/busy-bees))
 - Contribuyentes:
   - [Laura Garcés Martí](https://github.com/IceHummingBird) 			- Game Design y Artista.
   - [David Vélez Rebollo](https://github.com/DavidVelezRebollo) 		- Programación
@@ -66,7 +74,9 @@ Un juego 2D de gestión de una fábrica de miel donde los trabajadores son abeja
 
 
 ### *PROYECTO 6*: Ant Hill
-- [Repositorio](https://github.com/DavidVelezRebollo/Game-Jam-2)
+![]({{https://gluglugames.github.io}}/images/AntHill.png)
+
+- [Itch.io]([https://github.com/DavidVelezRebollo/Game-Jam-2](https://deividvel.itch.io/the-ant-hill))
 - Contribuyentes:
   - [Laura Garcés Martí](https://github.com/IceHummingBird) 			- Arte y Programación
   - [David Vélez Rebollo](https://github.com/DavidVelezRebollo) 		- Programación
@@ -77,6 +87,8 @@ Un juego 2D de plataformas donde controlas a una fila de hormigas.
 
 
 ### *PROYECTO 7*: Cookie Mayhem
+![]({{https://gluglugames.github.io}}/images/Cookie.png)
+
 - [Repositorio](https://github.com/AdrianAlbarran/CookieMayhem-JuegosEnRed)
 - Contribuyentes:
   - Adrián Albarrán: [perfil de Github](https://github.com/AdrianAlbarran) 	- Programador
@@ -89,6 +101,8 @@ Juego online de web hecho con Phaser.
 
  
 ### *PROYECTO 8*: Drift Market
+![]({{https://gluglugames.github.io}}/images/Drift.png)
+
 - [Repositorio](https://github.com/AdrianAlbarran/Drift-Market-Interaccion-Persona-Maquina)
 - Contribuyentes: 
   - [Adrián Albarrán](https://github.com/AdrianAlbarran) 			- Programador
@@ -121,6 +135,8 @@ Videojuego experimental donde controlas un carrito de la compra por un centro co
 
 
 ### *PROYECTO 11*: JumpBox
+![]({{https://gluglugames.github.io}}/images/JumpBox.png)
+
 - [Repositorio](https://play.google.com/store/apps/details?id=com.Adriansito.JumpBox)
 - Contribuyentes:
   - [Adrián Serrano](https://github.com/PinguinoTocho) 				- Desarrollador Completo
