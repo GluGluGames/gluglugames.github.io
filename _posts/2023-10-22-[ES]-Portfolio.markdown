@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Portfolio
+title: (ES) Portfolio
 image: Fondo.jpg
 date: 2023-10-22 18:11:18 +0200
 tags: [workflow, minimalism]
@@ -15,10 +15,11 @@ categories: productivity
 - [Repositorio](https://github.com/PabloCondeLopez/La-caida-de-ADAN)
 - Contribuidores 
   - [David Vélez](https://github.com/DavidVelezRebollo) 			      - Programacion
-  - [Laura Garcés](https://github.com/IceHummingBird) 				      - Programación, Game Design e Interfaces
-  - [Luming Fan](https://github.com/daniever6) 					            - Artista 3D
+  - [Laura Garcés](https://github.com/IceHummingBird) 				      - Programación, game design e interfaces
+  - [Luming Fan](https://github.com/daniever6) 					            - Modelador 3D
 
 ###### Descripción:
+Un tower defense multijugador online 2D pixel art.
 La historia se ambienta en una España alternativa donde en el año 2000, tal como fue profetizado por diferentes gurús de la informática, cayeron todos los sistemas de comunicación a nivel global.Esta situación de caos derivó en unos determinados acontecimientos que sacudieron el orden mundial.
 
 
@@ -26,11 +27,12 @@ La historia se ambienta en una España alternativa donde en el año 2000, tal co
 - [Repositorio](https://github.com/PabloCondeLopez/Optophobia) 
 - Contribuidores 
   - [David Vélez](https://github.com/DavidVelezRebollo) 			        - Programacion
-  - [Laura Garcés](https://github.com/IceHummingBird) 				        - Programación, Game Design e Interfaces
-  - [Luming Fan](https://github.com/daniever6) 					              - Artista 3D
+  - [Laura Garcés](https://github.com/IceHummingBird) 				        - Programación, game design e interfaces
+  - [Luming Fan](https://github.com/daniever6) 					              - Modelador 3D
   
 ###### Descripción
-Un chico esta viendo una peli en el cine y sale al banio porque tenia que problemas, cuando sale de ello, de repente desaparece todo el mundo, solo queda el cine, lleno de silencio. El chico tiene que averiguar las formas de salir del cine superando diferentes retos y escapar del elemento que le persigue.
+Un juego de miedo 3D con detección del parpadeo a través de webcam. Para moverte debes cerrar los ojos y enfrentarte a lo que haya cuando los abrás.
+Un chico esta viendo una peli en el cine y sale al baño, cuando sale, ya no hay nadie, solo queda el cine y el centro comercial, lleno de silencio. El chico tiene que averiguar las formas de salir del cine superando diferentes retos y escapar del ser que le persigue.
 
 
   
@@ -39,7 +41,7 @@ Un chico esta viendo una peli en el cine y sale al banio porque tenia que proble
 
 - [Itch.io](https://redpablo.itch.io/el-misterio-del-ronquillo)
 - Contribuyentes:
-  - [Luming Fan](https://github.com/daniever6) 					               - Artista 3D
+  - [Luming Fan](https://github.com/daniever6) 					               - Modelador 3D
    
 ###### Descripción
 En El Misterio del Ronquillo deberás visitar la venta del Ronquillo, donde se han cometido una serie de asesinatos. Junto con tu compañero el  forense Martínez deberéis desentrañar el misterio de los asesinatos. Encuentra las partes que faltan de la historia y resuelve el misterio.
@@ -51,7 +53,7 @@ En El Misterio del Ronquillo deberás visitar la venta del Ronquillo, donde se h
 
 - [Itch.io]([https://github.com/DavidVelezRebollo/Leave-Something-Behind-v2](https://lsbehindoficial.itch.io/leave-something-behind))
 - Contribuyentes:
-  - [Laura Garcés Martí](https://github.com/IceHummingBird) 			- Programación, Game Design, Interfaces y Artista
+  - [Laura Garcés Martí](https://github.com/IceHummingBird) 			  - Programación, game design y interfaces
   - [David Vélez Rebollo](https://github.com/DavidVelezRebollo) 		- Programación
 
 ###### Descripción
@@ -64,9 +66,9 @@ Un juego estilo Vampire Survivors 2D en el que en vez de conseguir objetos, los 
 
 - [Itch.io]([https://github.com/DavidVelezRebollo/Busy-Bee](https://gonsowo.itch.io/busy-bees))
 - Contribuyentes:
-  - [Laura Garcés Martí](https://github.com/IceHummingBird) 			- Game Design y Artista.
+  - [Laura Garcés Martí](https://github.com/IceHummingBird) 			  - Game Design, arte e interfaces
   - [David Vélez Rebollo](https://github.com/DavidVelezRebollo) 		- Programación
-  - [Adrián Serrano Monteiro](https://github.com/PinguinoTocho) 		- Partículas, Animación y Sonido
+  - [Adrián Serrano Monteiro](https://github.com/PinguinoTocho) 		- Partículas, animación y sonido
 
 ###### Descripción
 Un juego 2D de gestión de una fábrica de miel donde los trabajadores son abejas.
@@ -78,7 +80,7 @@ Un juego 2D de gestión de una fábrica de miel donde los trabajadores son abeja
 
 - [Itch.io]([https://github.com/DavidVelezRebollo/Game-Jam-2](https://deividvel.itch.io/the-ant-hill))
 - Contribuyentes:
-  - [Laura Garcés Martí](https://github.com/IceHummingBird) 			- Arte y Programación
+  - [Laura Garcés Martí](https://github.com/IceHummingBird) 			- Arte y programación
   - [David Vélez Rebollo](https://github.com/DavidVelezRebollo) 		- Programación
 
 ###### Descripción
@@ -93,7 +95,7 @@ Un juego 2D de plataformas donde controlas a una fila de hormigas.
 - Contribuyentes:
   - Adrián Albarrán: [perfil de Github](https://github.com/AdrianAlbarran) 	- Programador
   - Marco Ozaeta : [perfil de Github](https://github.com/Marcooza) 		- Artista 2D
-  - Adrián Serrano: [Perfil de Github](https://github.com/PinguinoTocho) 	- Artista 2D y Game Designer
+  - Adrián Serrano: [Perfil de Github](https://github.com/PinguinoTocho) 	- Artista 2D y game designer
 
 ###### Descripción
 Juego online de web hecho con Phaser.
@@ -107,20 +109,20 @@ Juego online de web hecho con Phaser.
 - Contribuyentes: 
   - [Adrián Albarrán](https://github.com/AdrianAlbarran) 			- Programador
   - [Marco Ozaeta](https://github.com/Marcooza) 				- Artista 3D
-  - [Adrián Serrano](https://github.com/PinguinoTocho) 				- Artista 3D, Programador y Game Designer
+  - [Adrián Serrano](https://github.com/PinguinoTocho) 				- Artista 3D, programador y game designer
 
 ###### Descripción
-Videojuego experimental donde controlas un carrito de la compra por un centro comercial. Se puede usar con volante y pedales!
+Videojuego experimental donde controlas un carrito de la compra por un centro comercial. Se puede usar con volante y pedales.
 
 
 
 ### *PROYECTO 9*: AR Menu
 - [Repositorio](https://github.com/AdrianAlbarran/AR_MENU)
 - Contribuyentes: 
-  - [Adrián Albarrán](https://github.com/AdrianAlbarran) 			- Programación AR y Diseño
+  - [Adrián Albarrán](https://github.com/AdrianAlbarran) 			- Programación AR y diseño
     
 ###### Descripción
-Aplicacion de realidad aumentada, orientada a android, donde puedes analizar una imagen para mostrar la carta junto a unos minijuego
+Aplicación de realidad aumentada, orientada a android, donde puedes analizar una imagen para mostrar la carta junto a unos minijuego.
 
 
  
@@ -130,7 +132,7 @@ Aplicacion de realidad aumentada, orientada a android, donde puedes analizar una
   - [Adrián Albarrán](https://github.com/AdrianAlbarran)
     
 ###### Descripción
-Videojuego experimental donde controlas un carrito de la compra por un centro comercial. Se puede usar con volante y pedales!
+Videojuego estilo Vampire Surviver donde luchas para sobrevivir.
 
 
 
@@ -139,7 +141,7 @@ Videojuego experimental donde controlas un carrito de la compra por un centro co
 
 - [PlayStore](https://play.google.com/store/apps/details?id=com.Adriansito.JumpBox)
 - Contribuyentes:
-  - [Adrián Serrano](https://github.com/PinguinoTocho) 				- Desarrollador Completo
+  - [Adrián Serrano](https://github.com/PinguinoTocho) 				- Desarrollador completo
     
 ###### Descripción
 Videojugos de plataformas que incentiva al jugador conseguir el maximo de plataformas y colocarse en el primer puesto!

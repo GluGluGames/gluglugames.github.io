@@ -9,142 +9,143 @@ categories: productivity
 ## The teams proyects
 
 
-### *PROYECTO 1*: La caída de Adán
+### *PROJECT 1*: ADAN's fall
 ![]({{https://gluglugames.github.io}}/images/ADAN.png)
 
 - [Repositoty](https://github.com/PabloCondeLopez/La-caida-de-ADAN)
 - Contribuidores 
-  - [David Vélez](https://github.com/DavidVelezRebollo) 			      - Programacion
-  - [Laura Garcés](https://github.com/IceHummingBird) 				      - Programación, Game Design e Interfaces
-  - [Luming Fan](https://github.com/daniever6) 					            - Artista 3D
+  - [David Vélez](https://github.com/DavidVelezRebollo) 			      - Programmer
+  - [Laura Garcés](https://github.com/IceHummingBird) 				      - Programmer, game designer and interfaces
+  - [Luming Fan](https://github.com/daniever6) 					            - 3D modeling
 
 ###### Description:
-A distopic tower defense in 2D pixel art.
+A distopic online multiplayer tower defense in 2D pixel art.
 This story occurs in an alternative Spain where in the year 2000, just like the informatic gurus predicted, all of the communication systems fall at a global level. This situation shakes the world order. 
 
 
 
-### *PROYECTO 2*: Optophobia
+### *PROJECT 2*: Optophobia
 - [Repositoty](https://github.com/PabloCondeLopez/Optophobia) 
 - Contribuidores 
-  - [David Vélez](https://github.com/DavidVelezRebollo) 			        - Programacion
-  - [Laura Garcés](https://github.com/IceHummingBird) 				        - Programación, Game Design e Interfaces
-  - [Luming Fan](https://github.com/daniever6) 					              - Artista 3D
+  - [David Vélez](https://github.com/DavidVelezRebollo) 			        - Programmer
+  - [Laura Garcés](https://github.com/IceHummingBird) 				        - Programmer, game designer and interfaces
+  - [Luming Fan](https://github.com/daniever6) 					              - 3D modeling
   
 ###### Description
-Un chico esta viendo una peli en el cine y sale al banio porque tenia que problemas, cuando sale de ello, de repente desaparece todo el mundo, solo queda el cine, lleno de silencio. El chico tiene que averiguar las formas de salir del cine superando diferentes retos y escapar del elemento que le persigue.
+A 3D terror game with blink detection by webcam. To move you must close your eyes, and face whatever you find when you open them.
+A guy is watching a film in the cinema and goes out to the bathroom, when he comes out, there's no one, just the cinema and the mall, full of silence. The guy has to figure out how to escape overcoming different puzzles and avoiding the being that follows him.
 
 
   
-### *PROYECTO 3*: El Misterio del Ronquillo
+### *PROJECT 3*: The Mistery of the Ronquillo
 ![]({{https://gluglugames.github.io}}/images/Misterio.png)
 
 - [Itch.io](https://redpablo.itch.io/el-misterio-del-ronquillo)
 - Contribuyentes:
-  - [Luming Fan](https://github.com/daniever6) 					               - Artista 3D
+  - [Luming Fan](https://github.com/daniever6) 					               - 3D modeling
    
 ###### Description
-En El Misterio del Ronquillo deberás visitar la venta del Ronquillo, donde se han cometido una serie de asesinatos. Junto con tu compañero el  forense Martínez deberéis desentrañar el misterio de los asesinatos. Encuentra las partes que faltan de la historia y resuelve el misterio.
+In The Mystery of Ronquillo you must visit the Ronquillo inn, where a series of murders have been committed. Together with your partner, the coroner Martínez, you must unravel the mystery of the murders. Find the missing parts of the story and solve the mystery.
 
 
 
-### *PROYECTO 4*: Leave Something Behind
+### *PROJECT 4*: Leave Something Behind
 ![]({{https://gluglugames.github.io}}/images/LSB.jpg)
 
 - [Itch.io]([https://github.com/DavidVelezRebollo/Leave-Something-Behind-v2](https://lsbehindoficial.itch.io/leave-something-behind))
 - Contribuyentes:
-  - [Laura Garcés Martí](https://github.com/IceHummingBird) 			- Programación, Game Design, Interfaces y Artista
-  - [David Vélez Rebollo](https://github.com/DavidVelezRebollo) 		- Programación
+  - [Laura Garcés Martí](https://github.com/IceHummingBird) 			- Programing, game designer and interfaces
+  - [David Vélez Rebollo](https://github.com/DavidVelezRebollo) 		- Programing
 
 ###### Description
-Un juego estilo Vampire Survivors 2D en el que en vez de conseguir objetos, los pierdes, y tu objetivo es sobrevivir.
+A Vampire Survivors 2D style game in which instead of getting objects, you lose them, and your objective is to survive.
 
 
 
-### *PROYECTO 5*: Busy Bee
+### *PROJECT 5*: Busy Bee
 ![]({{https://gluglugames.github.io}}/images/Bee.png)
 
 - [Itch.io]([https://github.com/DavidVelezRebollo/Busy-Bee](https://gonsowo.itch.io/busy-bees))
 - Contribuyentes:
-  - [Laura Garcés Martí](https://github.com/IceHummingBird) 			- Game Design y Artista.
-  - [David Vélez Rebollo](https://github.com/DavidVelezRebollo) 		- Programación
-  - [Adrián Serrano Monteiro](https://github.com/PinguinoTocho) 		- Partículas, Animación y Sonido
+  - [Laura Garcés Martí](https://github.com/IceHummingBird) 			  - Game designer, artist and interfaces
+  - [David Vélez Rebollo](https://github.com/DavidVelezRebollo) 		- Programing
+  - [Adrián Serrano Monteiro](https://github.com/PinguinoTocho) 		- Particles, animation and sound
 
 ###### Description
-Un juego 2D de gestión de una fábrica de miel donde los trabajadores son abejas.
+A 2D honey factory management game where the workers are bees.
 
 
 
-### *PROYECTO 6*: Ant Hill
+### *PROJECT 6*: Ant Hill
 ![]({{https://gluglugames.github.io}}/images/AntHill.jpg)
 
 - [Itch.io]([https://github.com/DavidVelezRebollo/Game-Jam-2](https://deividvel.itch.io/the-ant-hill))
 - Contribuyentes:
-  - [Laura Garcés Martí](https://github.com/IceHummingBird) 			- Arte y Programación
-  - [David Vélez Rebollo](https://github.com/DavidVelezRebollo) 		- Programación
+  - [Laura Garcés Martí](https://github.com/IceHummingBird) 			- Artist and programmer
+  - [David Vélez Rebollo](https://github.com/DavidVelezRebollo) 		- Programmer
 
 ###### Description
-Un juego 2D de plataformas donde controlas a una fila de hormigas.
+A 2D platform game where you control a line of ants.
 
 
 
-### *PROYECTO 7*: Cookie Mayhem
+### *PROJECT 7*: Cookie Mayhem
 ![]({{https://gluglugames.github.io}}/images/Cookie.png)
 
 - [Repositoty](https://github.com/AdrianAlbarran/CookieMayhem-JuegosEnRed)
 - Contribuyentes:
-  - Adrián Albarrán: [perfil de Github](https://github.com/AdrianAlbarran) 	- Programador
-  - Marco Ozaeta : [perfil de Github](https://github.com/Marcooza) 		- Artista 2D
-  - Adrián Serrano: [Perfil de Github](https://github.com/PinguinoTocho) 	- Artista 2D y Game Designer
+  - Adrián Albarrán: [perfil de Github](https://github.com/AdrianAlbarran) 	- Programmer
+  - Marco Ozaeta : [perfil de Github](https://github.com/Marcooza) 		- Artist
+  - Adrián Serrano: [Perfil de Github](https://github.com/PinguinoTocho) 	- Artist and game designer
 
 ###### Description
-Juego online de web hecho con Phaser.
+Online web game made with Phaser.
 
 
  
-### *PROYECTO 8*: Drift Market
+### *PROJECT 8*: Drift Market
 ![]({{https://gluglugames.github.io}}/images/Drift.png)
 
 - [Repositoty](https://github.com/AdrianAlbarran/Drift-Market-Interaccion-Persona-Maquina)
 - Contribuyentes: 
-  - [Adrián Albarrán](https://github.com/AdrianAlbarran) 			- Programador
-  - [Marco Ozaeta](https://github.com/Marcooza) 				- Artista 3D
-  - [Adrián Serrano](https://github.com/PinguinoTocho) 				- Artista 3D, Programador y Game Designer
+  - [Adrián Albarrán](https://github.com/AdrianAlbarran) 			- Programmer
+  - [Marco Ozaeta](https://github.com/Marcooza) 				- 3D modeling
+  - [Adrián Serrano](https://github.com/PinguinoTocho) 				- 3D modeling, programmer y game designer
 
 ###### Description
-Videojuego experimental donde controlas un carrito de la compra por un centro comercial. Se puede usar con volante y pedales!
+Experimental video game where you control a shopping cart through a shopping center. Can be used with steering wheel and pedals.
 
 
 
-### *PROYECTO 9*: AR Menu
+### *PROJECT 9*: AR Menu
 - [Repositoty](https://github.com/AdrianAlbarran/AR_MENU)
 - Contribuyentes: 
-  - [Adrián Albarrán](https://github.com/AdrianAlbarran) 			- Programación AR y Diseño
+  - [Adrián Albarrán](https://github.com/AdrianAlbarran) 			- AR Programmer and designer
     
 ###### Description
-Aplicacion de realidad aumentada, orientada a android, donde puedes analizar una imagen para mostrar la carta junto a unos minijuego
+Augmented reality application, aimed at Android, where you can analyze an image to show the letter along with some minigames.
 
 
  
-### *PROYECTO 10*: IrisDescent
+### *PROJECT 10*: IrisDescent
 - [Repositoty](https://github.com/AdrianAlbarran/Ing-de-videojuegos-)
 - Contribuyentes:
   - [Adrián Albarrán](https://github.com/AdrianAlbarran)
     
 ###### Description
-Videojuego experimental donde controlas un carrito de la compra por un centro comercial. Se puede usar con volante y pedales!
+Vampire Surviver style video game where you fight to survive.
 
 
 
-### *PROYECTO 11*: JumpBox
+### *PROJECT 11*: JumpBox
 ![]({{https://gluglugames.github.io}}/images/JumpBox.png)
 
 - [PlayStore](https://play.google.com/store/apps/details?id=com.Adriansito.JumpBox)
 - Contribuyentes:
-  - [Adrián Serrano](https://github.com/PinguinoTocho) 				- Desarrollador Completo
+  - [Adrián Serrano](https://github.com/PinguinoTocho) 				- Only developer
     
 ###### Description
-Videojugos de plataformas que incentiva al jugador conseguir el maximo de plataformas y colocarse en el primer puesto!
+Platform video games that encourage the player to achieve the maximum number of platforms and place themselves in first place.
 
 
 
