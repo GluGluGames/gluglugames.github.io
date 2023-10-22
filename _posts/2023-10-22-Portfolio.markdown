@@ -47,7 +47,7 @@ En El Misterio del Ronquillo deberás visitar la venta del Ronquillo, donde se h
 
 
 ### *PROYECTO 4*: Leave Something Behind
-![]({{https://gluglugames.github.io}}/images/LSB.png)
+![]({{https://gluglugames.github.io}}/images/LSB.jpg)
 
 - [Itch.io]([https://github.com/DavidVelezRebollo/Leave-Something-Behind-v2](https://lsbehindoficial.itch.io/leave-something-behind))
 - Contribuyentes:
