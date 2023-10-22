@@ -6,8 +6,113 @@ date: 2018-02-07 17:50:18 +0200
 tags: [workflow, programming]
 categories: productivity
 ---
-Jean shorts organic cornhole, gochujang post-ironic chicharrones authentic flexitarian viral PBR&B forage wolf. Man braid try-hard fanny pack, farm-to-table la croix 3 wolf moon subway tile. Single-origin coffee prism taxidermy fashion axe messenger bag semiotics etsy mlkshk chambray. Marfa lumbersexual meditation celiac. Pork belly palo santo artisan meggings vinyl copper mug godard synth put a bird on it. Cloud bread pop-up quinoa, raw denim meditation 8-bit slow-carb. Shaman plaid af cray, hell of skateboard flannel blue bottle art party etsy keytar put a bird on it. Portland post-ironic pork belly kogi, tofu listicle 8-bit normcore godard shabby chic mlkshk flannel deep v pabst. Pork belly kinfolk fingerstache lo-fi raclette. Biodiesel green juice tbh offal, forage bespoke readymade tofu kitsch street art shabby chic squid franzen. Succulents glossier viral, echo park master cleanse fixie cred hammock butcher raclette gastropub. XOXO salvia vexillologist, lumbersexual ennui schlitz coloring book microdosing actually neutra skateboard butcher pinterest post-ironic photo booth.
+## Los proyectos del equipo 
 
-Four dollar toast blog austin artisan raw denim vinyl woke, salvia hella truffaut meh hexagon. Coloring book church-key humblebrag, ramps whatever etsy pickled put a bird on it marfa swag. Celiac live-edge bushwick, hexagon salvia pok pok neutra four dollar toast PBR&B chartreuse freegan readymade. Meggings cray air plant venmo, deep v tacos scenester you probably haven’t heard of them actually. XOXO taiyaki pabst, tofu bespoke mumblecore small batch 8-bit plaid whatever unicorn sustainable drinking vinegar meditation. Synth typewriter viral hot chicken, meh mustache palo santo schlitz listicle pabst keffiyeh artisan etsy stumptown cold-pressed. Occupy locavore cray irony. Chambray whatever vaporware keffiyeh heirloom vice. Single-origin coffee neutra iPhone lyft. Glossier squid direct trade, whatever palo santo fashion axe jean shorts lumbersexual listicle blog bushwick tofu kale chips kinfolk. Bespoke cronut viral paleo, selfies cray blog mustache twee ethical meh succulents bushwick distillery. Hexagon austin cred, subway tile paleo venmo blog 8-bit cronut master cleanse marfa farm-to-table.
+### *PROYECTO 1*: La caída de Adán
+- [Repositorio](https://github.com/PabloCondeLopez/La-caida-de-ADAN)
+- Contribuidores 
+  - [David Vélez](https://github.com/DavidVelezRebollo) 			              - Programacion
+  - [Laura Garcés](https://github.com/IceHummingBird) 				              - Programación, Game Design e Interfaces
+  - [Luming Fan](https://github.com/daniever6) 					                    - Artista 3D
 
-Live-edge vinyl meh, quinoa umami palo santo narwhal letterpress farm-to-table typewriter chartreuse vice tacos leggings. Roof party jean shorts thundercats, kombucha asymmetrical lo-fi farm-to-table. Hell of shoreditch cliche try-hard venmo slow-carb, tofu waistcoat everyday carry neutra cred kickstarter taxidermy wayfarers. Direct trade banh mi pug skateboard banjo edison bulb. Intelligentsia cliche quinoa synth umami. Trust fund four loko hoodie paleo cray tote bag slow-carb ennui. Williamsburg food truck intelligentsia trust fund. Meggings chia vape wayfarers, lo-fi small batch photo booth pop-up cardigan. Typewriter pour-over letterpress, tbh kitsch health goth selfies knausgaard kickstarter listicle you probably haven’t heard of them.
+###### Descripción:
+La historia se ambienta en una España alternativa donde en el año 2000, tal como fue profetizado por diferentes gurús de la informática, cayeron todos los sistemas de comunicación a nivel global.Esta situación de caos derivó en unos determinados acontecimientos que sacudieron el orden mundial.
+
+### *PROYECTO 2*: Optophobia
+- [Repositorio](https://github.com/PabloCondeLopez/Optophobia) 
+- Contribuidores 
+  - [David Vélez](https://github.com/DavidVelezRebollo) 			              - Programacion
+  - [Laura Garcés](https://github.com/IceHummingBird) 				              - Programación, Game Design e Interfaces
+  - [Luming Fan](https://github.com/daniever6) 					                    - Artista 3D
+  
+###### Descripción
+Un chico esta viendo una peli en el cine y sale al banio porque tenia que problemas, cuando sale de ello, de repente desaparece todo el mundo, solo queda el cine, lleno de silencio. El chico tiene que averiguar las formas de salir del cine superando diferentes retos y escapar del elemento que le persigue.
+
+  
+### *PROYECTO 3*: El Misterio del Ronquillo
+- [Repositorio](https://github.com/Moromon/Gamegen-Game-Jam)
+- Contribuyentes:
+  - [Luming Fan](https://github.com/daniever6) 					                      - Artista 3D
+   
+###### Descripción
+En El Misterio del Ronquillo deberás visitar la venta del Ronquillo, donde se han cometido una serie de asesinatos. Junto con tu compañero el  forense Martínez deberéis desentrañar el misterio de los asesinatos. Encuentra las partes que faltan de la historia y resuelve el misterio.
+
+
+### *PROYECTO 4*: Leave Something Behind
+- [Repositorio](https://github.com/DavidVelezRebollo/Leave-Something-Behind-v2)
+- Contribuyentes:
+  - [Laura Garcés Martí](https://github.com/IceHummingBird) 			            - Programación, Game Design, Interfaces y Artista
+  - [David Vélez Rebollo](https://github.com/DavidVelezRebollo) 		          - Programación
+
+###### Descripción
+Un juego estilo Vampire Survivors 2D en el que en vez de conseguir objetos, los pierdes, y tu objetivo es sobrevivir.
+
+
+### *PROYECTO 5*: Busy Bee
+- [Repositorio](https://github.com/DavidVelezRebollo/Busy-Bee)
+- Contribuyentes:
+  - [Laura Garcés Martí](https://github.com/IceHummingBird) 			            - Game Design y Artista.
+  - [David Vélez Rebollo](https://github.com/DavidVelezRebollo) 		          - Programación
+  - [Adrián Serrano Monteiro](https://github.com/PinguinoTocho) 		          - Partículas, Animación y Sonido
+
+###### Descripción
+Un juego 2D de gestión de una fábrica de miel donde los trabajadores son abejas.
+
+
+### *PROYECTO 6*: Ant Hill
+- [Repositorio](https://github.com/DavidVelezRebollo/Game-Jam-2)
+- Contribuyentes:
+  - [Laura Garcés Martí](https://github.com/IceHummingBird) 			            - Arte y Programación
+  - [David Vélez Rebollo](https://github.com/DavidVelezRebollo) 		          - Programación
+
+###### Descripción
+Un juego 2D de plataformas donde controlas a una fila de hormigas.
+
+
+### *PROYECTO 7*: Cookie Mayhem
+- [Repositorio](https://github.com/AdrianAlbarran/CookieMayhem-JuegosEnRed)
+- Contribuyentes:
+  - Adrián Albarrán: [perfil de Github](https://github.com/AdrianAlbarran) 	   - Programador
+  - Marco Ozaeta : [perfil de Github](https://github.com/Marcooza) 		         - Artista 2D
+  - Adrián Serrano: [Perfil de Github](https://github.com/PinguinoTocho) 	     - Artista 2D y Game Designer
+
+###### Descripción
+Juego online de web hecho con Phaser.
+
+ 
+### *PROYECTO 8*: Drift Market
+- [Repositorio](https://github.com/AdrianAlbarran/Drift-Market-Interaccion-Persona-Maquina)
+- Contribuyentes: 
+  - [Adrián Albarrán](https://github.com/AdrianAlbarran) 			                 - Programador
+  - [Marco Ozaeta](https://github.com/Marcooza) 				                       - Artista 3D
+  - [Adrián Serrano](https://github.com/PinguinoTocho) 				                 - Artista 3D, Programador y Game Designer
+
+###### Descripción
+Videojuego experimental donde controlas un carrito de la compra por un centro comercial. Se puede usar con volante y pedales.
+
+
+### *PROYECTO 9*: AR Menu
+- [Repositorio](https://github.com/AdrianAlbarran/AR_MENU)
+- Contribuyentes: 
+  - [Adrián Albarrán](https://github.com/AdrianAlbarran) 			                  - Programación AR y Diseño
+    
+###### Descripción
+Aplicacion de realidad aumentada, orientada a android, donde puedes analizar una imagen para mostrar la carta junto a unos minijuegos.
+
+ 
+##### *PROYECTO 10*: IrisDescent
+- [Repositorio](https://github.com/AdrianAlbarran/Ing-de-videojuegos-)
+- Contribuyentes:
+  - [Adrián Albarrán](https://github.com/AdrianAlbarran)
+    
+###### Descripción
+Videojuego experimental donde controlas un carrito de la compra por un centro comercial. Se puede usar con volante y pedales.
+
+
+### *PROYECTO 11*: JumpBox
+- [Repositorio](https://play.google.com/store/apps/details?id=com.Adriansito.JumpBox)
+- Contribuyentes:
+  - [Adrián Serrano](https://github.com/PinguinoTocho) 				                  - Desarrollador Completo
+    
+###### Descripción
+Videojugos de plataformas que incentiva al jugador conseguir el maximo de plataformas y colocarse en el primer puesto.
