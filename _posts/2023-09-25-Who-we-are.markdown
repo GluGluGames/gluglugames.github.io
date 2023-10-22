@@ -19,17 +19,17 @@ The team is composed by six people, in which we all contribute to almost every a
 ![]({{https://gluglugames.github.io}}/images/TarjetaAdri.png)
 
 ## Game designer - Luming Fan Guo
-![](https://github.com/GluGluGames/gluglugames.github.io/blob/master/images/Tarjeta%20-%20Luming.png)
+![]({{https://gluglugames.github.io}}/images/TarjetaLuming.png)
 
 ## Lead artist - Laura Garces Martí
-![](https://github.com/GluGluGames/gluglugames.github.io/blob/master/images/Tarjeta%20-%20Laura.png)
+![]({{https://gluglugames.github.io}}/images/TarjetaLaura.png)
 
 ## Lead programmer - David Vélez Rebollo
-![](https://github.com/GluGluGames/gluglugames.github.io/blob/master/images/Tarjeta%20-%20David.png)
+![]({{https://gluglugames.github.io}}/images/TarjetaDavid.png)
 
 ## Community manager - Marco Ozaeta Velasco
-![](https://github.com/GluGluGames/gluglugames.github.io/blob/master/images/Tarjeta%20-%20Marco.png)
+![]({{https://gluglugames.github.io}}/images/TarjetaMarco.png)
 
 ## Lead storyteller - Adrián Serrano Monteiro
-![](https://github.com/GluGluGames/gluglugames.github.io/blob/master/images/Tarjeta%20-%20Adri%20C..png)
+![]({{https://gluglugames.github.io}}/images/TarjetaAdriC.png)
 
