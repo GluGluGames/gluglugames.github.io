@@ -74,7 +74,7 @@ Un juego 2D de gestión de una fábrica de miel donde los trabajadores son abeja
 
 
 ### *PROYECTO 6*: Ant Hill
-![]({{https://gluglugames.github.io}}/images/AntHill.png)
+![]({{https://gluglugames.github.io}}/images/AntHill.jpg)
 
 - [Itch.io]([https://github.com/DavidVelezRebollo/Game-Jam-2](https://deividvel.itch.io/the-ant-hill))
 - Contribuyentes:
@@ -124,7 +124,7 @@ Aplicacion de realidad aumentada, orientada a android, donde puedes analizar una
 
 
  
-##### *PROYECTO 10*: IrisDescent
+### *PROYECTO 10*: IrisDescent
 - [Repositorio](https://github.com/AdrianAlbarran/Ing-de-videojuegos-)
 - Contribuyentes:
   - [Adrián Albarrán](https://github.com/AdrianAlbarran)
@@ -137,7 +137,7 @@ Videojuego experimental donde controlas un carrito de la compra por un centro co
 ### *PROYECTO 11*: JumpBox
 ![]({{https://gluglugames.github.io}}/images/JumpBox.png)
 
-- [Repositorio](https://play.google.com/store/apps/details?id=com.Adriansito.JumpBox)
+- [PlayStore](https://play.google.com/store/apps/details?id=com.Adriansito.JumpBox)
 - Contribuyentes:
   - [Adrián Serrano](https://github.com/PinguinoTocho) 				- Desarrollador Completo
     
