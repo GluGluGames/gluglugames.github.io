@@ -6,7 +6,7 @@ date: 2023-09-25 09:00:20 +0100
 tags: 
 categories: guide
 ---
-Greetings! We are a team made by studentso of Videogames Design & Development of Videogames on the spanish university [Universidad Rey Juan Calors](https://www.urjc.es).This is currently our fourth year.
+Greetings! We are a team made by students of Videogames Design & Development of Videogames on the spanish university [Universidad Rey Juan Carlos](https://www.urjc.es). This is currently our fourth year.
 
 In this post you will be introducted to the team and his most disposable work.
 
@@ -16,7 +16,7 @@ The team is composed by six people, in which we all contribute to almost every a
 
 
 ## Team leader - Adrián Albarrán Alcalde
-image: Tarjeta-Adri.png
+![]({{https://gluglugames.github.io}}/images/TarjetaAdri.png)
 
 ## Game designer - Luming Fan Guo
 ![](https://github.com/GluGluGames/gluglugames.github.io/blob/master/images/Tarjeta%20-%20Luming.png)
