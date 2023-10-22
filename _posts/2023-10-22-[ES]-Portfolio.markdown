@@ -13,7 +13,7 @@ categories: productivity
 ![]({{https://gluglugames.github.io}}/images/ADAN.png)
 
 - [Repositorio](https://github.com/PabloCondeLopez/La-caida-de-ADAN)
-- Contribuidores 
+- Contribuyentes: 
   - [David Vélez](https://github.com/DavidVelezRebollo) 			      - Programacion
   - [Laura Garcés](https://github.com/IceHummingBird) 				      - Programación, game design e interfaces
   - [Luming Fan](https://github.com/daniever6) 					            - Modelador 3D
@@ -25,7 +25,7 @@ La historia se ambienta en una España alternativa donde en el año 2000, tal co
 
 ### *PROYECTO 2*: Optophobia
 - [Repositorio](https://github.com/PabloCondeLopez/Optophobia) 
-- Contribuidores 
+- Contribuyentes: 
   - [David Vélez](https://github.com/DavidVelezRebollo) 			        - Programacion
   - [Laura Garcés](https://github.com/IceHummingBird) 				        - Programación, game design e interfaces
   - [Luming Fan](https://github.com/daniever6) 					              - Modelador 3D
@@ -144,7 +144,7 @@ Videojuego estilo Vampire Surviver donde luchas para sobrevivir.
   - [Adrián Serrano](https://github.com/PinguinoTocho) 				- Desarrollador completo
     
 ###### Descripción
-Videojugos de plataformas que incentiva al jugador conseguir el maximo de plataformas y colocarse en el primer puesto!
+Videojugos de plataformas que incentiva al jugador conseguir el maximo de plataformas y colocarse en el primer puesto.
 
 
 

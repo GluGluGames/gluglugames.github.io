@@ -13,7 +13,7 @@ categories: productivity
 ![]({{https://gluglugames.github.io}}/images/ADAN.png)
 
 - [Repositoty](https://github.com/PabloCondeLopez/La-caida-de-ADAN)
-- Contribuidores 
+- Contributors:
   - [David Vélez](https://github.com/DavidVelezRebollo) 			      - Programmer
   - [Laura Garcés](https://github.com/IceHummingBird) 				      - Programmer, game designer and interfaces
   - [Luming Fan](https://github.com/daniever6) 					            - 3D modeling
@@ -26,7 +26,7 @@ This story occurs in an alternative Spain where in the year 2000, just like the 
 
 ### *PROJECT 2*: Optophobia
 - [Repositoty](https://github.com/PabloCondeLopez/Optophobia) 
-- Contribuidores 
+- Contributors:
   - [David Vélez](https://github.com/DavidVelezRebollo) 			        - Programmer
   - [Laura Garcés](https://github.com/IceHummingBird) 				        - Programmer, game designer and interfaces
   - [Luming Fan](https://github.com/daniever6) 					              - 3D modeling
@@ -41,7 +41,7 @@ A guy is watching a film in the cinema and goes out to the bathroom, when he com
 ![]({{https://gluglugames.github.io}}/images/Misterio.png)
 
 - [Itch.io](https://redpablo.itch.io/el-misterio-del-ronquillo)
-- Contribuyentes:
+- Contributors:
   - [Luming Fan](https://github.com/daniever6) 					               - 3D modeling
    
 ###### Description
@@ -53,7 +53,7 @@ In The Mystery of Ronquillo you must visit the Ronquillo inn, where a series of 
 ![]({{https://gluglugames.github.io}}/images/LSB.jpg)
 
 - [Itch.io]([https://github.com/DavidVelezRebollo/Leave-Something-Behind-v2](https://lsbehindoficial.itch.io/leave-something-behind))
-- Contribuyentes:
+- Contributors:
   - [Laura Garcés Martí](https://github.com/IceHummingBird) 			- Programing, game designer and interfaces
   - [David Vélez Rebollo](https://github.com/DavidVelezRebollo) 		- Programing
 
@@ -66,7 +66,7 @@ A Vampire Survivors 2D style game in which instead of getting objects, you lose 
 ![]({{https://gluglugames.github.io}}/images/Bee.png)
 
 - [Itch.io]([https://github.com/DavidVelezRebollo/Busy-Bee](https://gonsowo.itch.io/busy-bees))
-- Contribuyentes:
+- Contributors:
   - [Laura Garcés Martí](https://github.com/IceHummingBird) 			  - Game designer, artist and interfaces
   - [David Vélez Rebollo](https://github.com/DavidVelezRebollo) 		- Programing
   - [Adrián Serrano Monteiro](https://github.com/PinguinoTocho) 		- Particles, animation and sound
@@ -80,7 +80,7 @@ A 2D honey factory management game where the workers are bees.
 ![]({{https://gluglugames.github.io}}/images/AntHill.jpg)
 
 - [Itch.io]([https://github.com/DavidVelezRebollo/Game-Jam-2](https://deividvel.itch.io/the-ant-hill))
-- Contribuyentes:
+- Contributors:
   - [Laura Garcés Martí](https://github.com/IceHummingBird) 			- Artist and programmer
   - [David Vélez Rebollo](https://github.com/DavidVelezRebollo) 		- Programmer
 
@@ -93,7 +93,7 @@ A 2D platform game where you control a line of ants.
 ![]({{https://gluglugames.github.io}}/images/Cookie.png)
 
 - [Repositoty](https://github.com/AdrianAlbarran/CookieMayhem-JuegosEnRed)
-- Contribuyentes:
+- Contributors:
   - Adrián Albarrán: [perfil de Github](https://github.com/AdrianAlbarran) 	- Programmer
   - Marco Ozaeta : [perfil de Github](https://github.com/Marcooza) 		- Artist
   - Adrián Serrano: [Perfil de Github](https://github.com/PinguinoTocho) 	- Artist and game designer
@@ -107,7 +107,7 @@ Online web game made with Phaser.
 ![]({{https://gluglugames.github.io}}/images/Drift.png)
 
 - [Repositoty](https://github.com/AdrianAlbarran/Drift-Market-Interaccion-Persona-Maquina)
-- Contribuyentes: 
+- Contributors: 
   - [Adrián Albarrán](https://github.com/AdrianAlbarran) 			- Programmer
   - [Marco Ozaeta](https://github.com/Marcooza) 				- 3D modeling
   - [Adrián Serrano](https://github.com/PinguinoTocho) 				- 3D modeling, programmer y game designer
@@ -119,7 +119,7 @@ Experimental video game where you control a shopping cart through a shopping cen
 
 ### *PROJECT 9*: AR Menu
 - [Repositoty](https://github.com/AdrianAlbarran/AR_MENU)
-- Contribuyentes: 
+- Contributors: 
   - [Adrián Albarrán](https://github.com/AdrianAlbarran) 			- AR Programmer and designer
     
 ###### Description
@@ -129,7 +129,7 @@ Augmented reality application, aimed at Android, where you can analyze an image 
  
 ### *PROJECT 10*: IrisDescent
 - [Repositoty](https://github.com/AdrianAlbarran/Ing-de-videojuegos-)
-- Contribuyentes:
+- Contributors:
   - [Adrián Albarrán](https://github.com/AdrianAlbarran)
     
 ###### Description
@@ -141,7 +141,7 @@ Vampire Surviver style video game where you fight to survive.
 ![]({{https://gluglugames.github.io}}/images/JumpBox.png)
 
 - [PlayStore](https://play.google.com/store/apps/details?id=com.Adriansito.JumpBox)
-- Contribuyentes:
+- Contributors:
   - [Adrián Serrano](https://github.com/PinguinoTocho) 				- Only developer
     
 ###### Description
