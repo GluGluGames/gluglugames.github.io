@@ -83,6 +83,51 @@ categories: productivity
   - Gonzalo Barranco: [Perfil de GitHub](https://github.com/Gonsowo)
 - Departamento: 
   - Programador principal
+ 
+#### *PROYECTO 3 *: 
+- Nombre:
+  - Leave Something Behind
+- [Link al repositorio](https://github.com/DavidVelezRebollo/Leave-Something-Behind-v2)
+- CONTRIBUYENTES:
+  - Laura Garcés Martí: [Perfil de Github](https://github.com/IceHummingBird) 
+  - David Vélez Rebollo
+- LENGUAJE/SOFTWARE: C#/Unity
+- ROLES:
+	- Laura Garcés Martí: programación, game design e interfaces.
+	- David Vélez Rebollo: programación.
+
+- Un juego estilo Vampire Survivors 2D en el que en vez de conseguir objetos, los pierdes, y tu objetivo es sobrevivir.
+
+#### *PROYECTO 4 *: 
+- Nombre:
+  - Busy Bee
+- [Link al repositorio](https://github.com/DavidVelezRebollo/Busy-Bee)
+- CONTRIBUYENTES:
+  - Laura Garcés Martí:[Perfil de Github](https://github.com/IceHummingBird)
+  - David Vélez Rebollo
+  - Adrian Serrano Monteiro: [Perfil de Github](https://github.com/PinguinoTocho) 
+- LENGUAJE/SOFTWARE: C#/Unity
+- ROLES:
+	- Laura Garcés Martí: programación, game design e interfaces.
+	- David Vélez Rebollo: programación.
+	- Adrián Serrano Monteiro: partículas, animación y sonido.
+
+- Un juego 2D de gestión de una fábrica de miel donde los trabajadores son abejas.
+
+#### *PROYECTO 5 *: 
+- Nombre:
+  - Ant Hill
+- [Link al repositorio](https://github.com/DavidVelezRebollo/Game-Jam-2)
+- CONTRIBUYENTES:
+  - Laura Garcés Martí: [Perfil de Github](https://github.com/IceHummingBird)
+  - David Vélez Rebollo
+  - Adrian Serrano Monteiro: [Perfil de Github](https://github.com/PinguinoTocho) 
+- LENGUAJE/SOFTWARE: C#/Unity
+- ROLES:
+	- Laura Garcés Martí: programación, game design e interfaces.
+	- David Vélez Rebollo: programación.
+
+- Un juego 2D de plataformas donde controlas a una fila de hormigas.
  _____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 ### Laura Garces: [Perfil de Github](https://github.com/IceHummingBird) 
 ##### *Proyecto 1*: 
@@ -116,6 +161,52 @@ categories: productivity
 - Departamento: 
   - Programador
   - Artista 2D
+
+#### *PROYECTO 3 *: 
+- Nombre:
+  - Leave Something Behind
+- [Link al repositorio](https://github.com/DavidVelezRebollo/Leave-Something-Behind-v2)
+- CONTRIBUYENTES:
+  - Laura Garcés Martí 
+  - David Vélez Rebollo: [Perfil de Github](https://github.com/DavidVelezRebollo)
+- LENGUAJE/SOFTWARE: C#/Unity
+- ROLES:
+	- Laura Garcés Martí: programación, game design e interfaces.
+	- David Vélez Rebollo: programación.
+
+- Un juego estilo Vampire Survivors 2D en el que en vez de conseguir objetos, los pierdes, y tu objetivo es sobrevivir.
+
+#### *PROYECTO 4 *: 
+- Nombre:
+  - Busy Bee
+- [Link al repositorio](https://github.com/DavidVelezRebollo/Busy-Bee)
+- CONTRIBUYENTES:
+  - Laura Garcés Martí 
+  - David Vélez Rebollo: [Perfil de Github](https://github.com/DavidVelezRebollo)
+  - Adrian Serrano Monteiro: [Perfil de Github](https://github.com/PinguinoTocho) 
+- LENGUAJE/SOFTWARE: C#/Unity
+- ROLES:
+	- Laura Garcés Martí: programación, game design e interfaces.
+	- David Vélez Rebollo: programación.
+	- Adrián Serrano Monteiro: partículas, animación y sonido.
+
+- Un juego 2D de gestión de una fábrica de miel donde los trabajadores son abejas.
+
+#### *PROYECTO 5 *: 
+- Nombre:
+  - Ant Hill
+- [Link al repositorio](https://github.com/DavidVelezRebollo/Game-Jam-2)
+- CONTRIBUYENTES:
+  - Laura Garcés Martí 
+  - David Vélez Rebollo: [Perfil de Github](https://github.com/DavidVelezRebollo)
+  - Adrian Serrano Monteiro: [Perfil de Github](https://github.com/PinguinoTocho) 
+- LENGUAJE/SOFTWARE: C#/Unity
+- ROLES:
+	- Laura Garcés Martí: programación, game design e interfaces.
+	- David Vélez Rebollo: programación.
+
+- Un juego 2D de plataformas donde controlas a una fila de hormigas.
+  
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 ### Adrina albarran: [Perfil de Github](https://github.com/AdrianAlbarran) 
 ##### *Proyecto 1*: 
