@@ -16,7 +16,7 @@ The team is composed by six people, in which we all contribute to almost every a
 
 
 ## Team leader - Adrián Albarrán Alcalde
-![](https://github.com/GluGluGames/gluglugames.github.io/blob/master/images/Tarjeta%20-%20Adri.png)
+image: Tarjeta-Adri.png
 
 ## Game designer - Luming Fan Guo
 ![](https://github.com/GluGluGames/gluglugames.github.io/blob/master/images/Tarjeta%20-%20Luming.png)
