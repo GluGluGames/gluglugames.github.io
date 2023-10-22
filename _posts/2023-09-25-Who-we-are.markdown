@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Who we are
-image: 3.jpg
+image: 188d4b4027fb62b6677719f776b07072.jpg
 date: 2023-09-25 09:00:20 +0100
 tags: 
 categories: guide
@@ -12,19 +12,24 @@ In this post you will be introducted to the team and his most disposable work.
 
 # The team
 
-The team is composed by six people, in which we all contribute to almost every area. This is because we alla are really multi-disciplinar, even if we have specialized on our favorite topic. 
+The team is composed by six people, in which we all contribute to almost every area. This is because we all are really multi-disciplinar, even if we have specialized on our favorite topic. 
 
 
 ## Team leader - Adrián Albarrán Alcalde
+![](https://github.com/GluGluGames/gluglugames.github.io/blob/master/images/Tarjeta%20-%20Adri.png)
 
 ## Game designer - Luming Fan Guo
+![](https://github.com/GluGluGames/gluglugames.github.io/blob/master/images/Tarjeta%20-%20Luming.png)
 
 ## Lead artist - Laura Garces Martí
+![](https://github.com/GluGluGames/gluglugames.github.io/blob/master/images/Tarjeta%20-%20Laura.png)
 
 ## Lead programmer - David Vélez Rebollo
+![](https://github.com/GluGluGames/gluglugames.github.io/blob/master/images/Tarjeta%20-%20David.png)
 
 ## Community manager - Marco Ozaeta Velasco
+![](https://github.com/GluGluGames/gluglugames.github.io/blob/master/images/Tarjeta%20-%20Marco.png)
 
 ## Lead storyteller - Adrián Serrano Monteiro
+![](https://github.com/GluGluGames/gluglugames.github.io/blob/master/images/Tarjeta%20-%20Adri%20C..png)
 
-## Past proyects 
