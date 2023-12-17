@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ahogado en Impuestos - Un Viaje a Atlantis
-image: 188d4b4027fb62b6677719f776b07072.jpg
+image: post4.jpg
 date: 2023-12-17 22:24:18 +0200
 tags: [videojuego, gestión, expediciones, Atlantis]
 categories: [juegos, gestión]
