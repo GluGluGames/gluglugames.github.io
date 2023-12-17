@@ -1,0 +1,53 @@
+---
+layout: post
+title: Notas del Parche - Ahogado en Impuestos (Versión 1.1)
+image: post5.jpg
+date: 2023-12-17 22:54:38 +0200
+tags: [videojuego, parche, mejoras]
+categories: [juegos, actualizaciones]
+---
+
+# Notas del Parche - Ahogado en Impuestos (Versión 1.1)
+
+## Mejoras Generales:
+
+### Interfaz Gráfica Limpia y Mejorada:
+
+- Las interfaces se han redimensionado para una mejor visibilidad en diversos dispositivos.
+- Solucionados problemas de respuesta en configuración, menú principal y diálogos.
+- Se ha agregado la capacidad de restablecer el progreso en el menú principal con localización correspondiente.
+- Ajustes realizados para hacer interfaces más responsivas en dispositivos móviles.
+
+### Mejoras en la Experiencia del Jugador:
+
+- Se ha añadido un teclado virtual en la pantalla de inicio de sesión para facilitar el acceso en dispositivos móviles.
+- Tamaño de los peces ajustado para una experiencia más visualmente agradable.
+- Se solucionó un problema con el zoom de la cámara al construir en WebGL y Windows.
+
+### Estadísticas y Progreso:
+
+- Ahora se muestra la estadística de tiempo total jugado.
+- Posibilidad de restablecer estadísticas al reiniciar el progreso.
+- Se han agregado estadísticas de expedición, corrigiendo errores relacionados y ajustando generación de recursos.
+
+### Mejoras en la Base de Datos:
+
+- Se ha solucionado un problema con el tutorial del museo y se han agregado estadísticas de la ciudad a la base de datos.
+- Introducción de una función para eliminar todo el progreso desde el menú principal.
+
+### Correcciones de Errores:
+
+- Se han solucionado varios errores relacionados con las expediciones, museo, generación de recursos, laboratorios y más.
+- Se ha ajustado la generación de recursos y los precios de mejora para ofrecer una experiencia de juego más equilibrada.
+- Se han realizado mejoras en la persistencia de datos y cambios en el método de guardado para edificaciones y laboratorios.
+
+### Ajustes de Audio y Visualización:
+
+- Se ha corregido un problema con la música que ahora comienza al cargar el menú principal.
+- Se ha agregado un modelo para la anguila eléctrica y se han corregido problemas visuales en el menú principal.
+- Ajustes en el tamaño del puntero para una mejor experiencia de usuario.
+
+### Cambios en la Lógica del Juego:
+
+- Se ha completado la lógica de inicio de sesión.
+- Ajustes en la generación de recursos y en la tasa de crecimiento de edificaciones.
