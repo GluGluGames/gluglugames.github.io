@@ -1,7 +1,7 @@
 ---
 layout: post
 title: (ES) Portfolio
-image: post6.jpg
+image: pos6.jpg
 date: 2023-10-22 18:11:18 +0200
 tags: [workflow, minimalism]
 categories: productivity
