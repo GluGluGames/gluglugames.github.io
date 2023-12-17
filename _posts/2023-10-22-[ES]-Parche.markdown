@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Notas del Parche - Ahogado en Impuestos (Versión 1.1)
-image: post2.jpg
+image: Menu_principal2.png
 date: 2023-12-17 22:54:38 +0200
 tags: [videojuego, parche, mejoras]
 categories: [juegos, actualizaciones]
